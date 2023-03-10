@@ -1,0 +1,16 @@
+CREATE TABLE clothing (id INTEGER, name TEXT, quantity NUMERIC); 
+INSERT INTO clothing VALUES (1, "nike", 12);
+INSERT INTO clothing VALUES (2, "under armour", 2);
+INSERT INTO clothing VALUES (3, "adidas", 3);
+CREATE TABLE books (id INTEGER, name TEXT, quantity NUMERIC);
+INSERT INTO books VALUES (1, "diary of a wimpy kid", 4);
+INSERT INTO books VALUES (2, "think and grow rich", 5);
+INSERT INTO books VALUES (3, "48 laws of power", 4);
+CREATE TABLE electronics (id INTEGER, name TEXT, quantity NUMERIC); 
+INSERT INTO electronics VALUES (1, "mac", 4);
+INSERT INTO electronics VALUES (2, "hp", 3);
+INSERT INTO electronics VALUES (3, "dell", 6);
+CREATE TABLE dog_toys (id INTEGER, name TEXT, quantity NUMERIC);
+INSERT INTO dog_toys VALUES (1, "dog bone", 4); 
+INSERT INTO dog_toys VALUES (2, "dog snack", 5); 
+INSERT INTO dog_toys VALUES (3, "dog leash", 6);
