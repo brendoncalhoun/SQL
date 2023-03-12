@@ -1,10 +1,3 @@
-/* Put your data in here and query it! */
-/*
-Earned Badges
-This table contains badges earned by a user, including the most recent date achieved, the type, the name, the # of energy points earned, and the activity earned from.
-Collected by: https://www.khanacademy.org/profile/brendoncalhoun/
-*/
-
 CREATE TABLE marvels(
       ID INTEGER PRIMARY KEY,
       name TEXT, 
